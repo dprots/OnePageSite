@@ -1,0 +1,67 @@
+#header {
+  width: 1600px;
+  height: 900px;
+  margin: 0 auto;
+  background-image: url("../img/header-back.jpg");
+}
+
+#sertiz {
+  position: absolute;
+  margin: 0px;
+  top: 510px;
+  left: 215px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 48px;
+  color: white;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+#awsome {
+  position: absolute;
+  top: 582px;
+  left: 215px;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  color: white;
+  text-align: left;
+}
+
+#slo-container {
+  position: absolute;
+  top: 625px;
+  left: 215px;
+  width: 830px;
+  height: 130px;
+  border: solid 1px white;
+  margin: 0px;
+
+}
+
+#slo-back {
+  position: absolute;
+  width: 830px;
+  height: 130px;
+  top: 0px;
+  left: 0px;
+  background-image: url("../img/header-slogan.png");
+  opacity: 0.25;
+}
+
+#slo-content {
+  position: relative;
+  top: 35px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 54px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#we {
+  color: #f1ad1d;
+}
+
+#make {
+  color: white;
+  margin-left: 30px;
+}
